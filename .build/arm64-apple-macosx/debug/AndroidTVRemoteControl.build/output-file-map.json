@@ -1,0 +1,201 @@
+{
+  "": {
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/master.swiftdeps"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/CertManager.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/CertManager.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/CertManager.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/CertManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/CertManager.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/CertManager.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/Commands/DeepLink.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/DeepLink.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/DeepLink.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/DeepLink~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/DeepLink.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/DeepLink.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/Commands/Direction.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Direction.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Direction.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Direction~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Direction.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Direction.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/Commands/Key.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Key.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Key.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Key~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Key.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Key.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/Commands/KeyPress.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/KeyPress.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/KeyPress.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/KeyPress~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/KeyPress.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/KeyPress.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/CryptoManager.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/CryptoManager.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/CryptoManager.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/CryptoManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/CryptoManager.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/CryptoManager.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/Errors.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Errors.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Errors.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Errors~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Errors.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Errors.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/Network/CommandNetwork/AndroidTVConfigurationMessage.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/AndroidTVConfigurationMessage.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/AndroidTVConfigurationMessage.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/AndroidTVConfigurationMessage~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/AndroidTVConfigurationMessage.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/AndroidTVConfigurationMessage.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/Network/CommandNetwork/CommandNetwork.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/CommandNetwork.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/CommandNetwork.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/CommandNetwork~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/CommandNetwork.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/CommandNetwork.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/Network/CommandNetwork/Ping.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Ping.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Ping.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Ping~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Ping.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Ping.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/Network/CommandNetwork/RemoteIME.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/RemoteIME.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/RemoteIME.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/RemoteIME~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/RemoteIME.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/RemoteIME.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/Network/CommandNetwork/SecodConfiguration.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/SecodConfiguration.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/SecodConfiguration.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/SecodConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/SecodConfiguration.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/SecodConfiguration.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/Network/CommandNetwork/SecondConfigurationResponse.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/SecondConfigurationResponse.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/SecondConfigurationResponse.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/SecondConfigurationResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/SecondConfigurationResponse.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/SecondConfigurationResponse.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/Network/CommandNetwork/VolumeLevel.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/VolumeLevel.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/VolumeLevel.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/VolumeLevel~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/VolumeLevel.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/VolumeLevel.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/Network/PairingNetwork/Configuration.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Configuration.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Configuration.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Configuration~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Configuration.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Configuration.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/Network/PairingNetwork/Option.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Option.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Option.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Option~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Option.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Option.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/Network/PairingNetwork/Pairing.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Pairing.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Pairing.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Pairing~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Pairing.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Pairing.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/Network/PairingNetwork/PairingNetwork.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/PairingNetwork.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/PairingNetwork.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/PairingNetwork~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/PairingNetwork.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/PairingNetwork.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/Network/PairingNetwork/Secret.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Secret.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Secret.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Secret~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Secret.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Secret.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/Network/RequestDataProtocol.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/RequestDataProtocol.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/RequestDataProtocol.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/RequestDataProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/RequestDataProtocol.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/RequestDataProtocol.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/PairingManager.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/PairingManager.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/PairingManager.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/PairingManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/PairingManager.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/PairingManager.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/RemoteManager.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/RemoteManager.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/RemoteManager.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/RemoteManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/RemoteManager.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/RemoteManager.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/TLSManager.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/TLSManager.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/TLSManager.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/TLSManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/TLSManager.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/TLSManager.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/coding/Decoder.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Decoder.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Decoder.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Decoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Decoder.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Decoder.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/coding/Encoder.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Encoder.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Encoder.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Encoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Encoder.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Encoder.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/coding/ProtoMessageCoder.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/ProtoMessageCoder.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/ProtoMessageCoder.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/ProtoMessageCoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/ProtoMessageCoder.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/ProtoMessageCoder.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/misc/Logger.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Logger.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Logger.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Logger~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Logger.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Logger.dia"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/Sources/AndroidTVRemoteControl/misc/Result.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Result.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Result.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Result~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Result.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControl.build/Result.dia"
+  }
+}

@@ -18,9 +18,11 @@ public class RemoteManager {
     
     private var data = Data()
     private var secondConfigurationResponse = SecondConfigurationResponse()
+    public private(set) var remoteIMEStatus: RemoteIMEStatus?
     
     public var stateChanged: ((RemoteState)->())?
     public var receiveData: ((Data?, Error?)->Void)?
+    public var imeStatusChanged: ((RemoteIMEStatus)->Void)?
     public var deviceInfo: CommandNetwork.DeviceInfo
     
     public var logger: Logger?
@@ -86,6 +88,7 @@ public class RemoteManager {
         connection?.stateUpdateHandler = handleConnectionState
         logger?.infoLog(logPrefix + "connecting " + host + ":6466")
         secondConfigurationResponse = SecondConfigurationResponse()
+        remoteIMEStatus = nil
         connection?.start(queue: remoteQueue)
     }
     
@@ -94,10 +97,17 @@ public class RemoteManager {
         connection?.stateUpdateHandler = nil
         connection?.cancel()
         connection = nil
+        remoteIMEStatus = nil
     }
     
     public func send(_ request: RequestDataProtocol) {
         send(Data(Encoder.encodeVarint(UInt(request.data.count))), request.data)
+    }
+
+    public func sendText(_ text: String) {
+        let imeCounter = remoteIMEStatus?.imeCounter ?? 0
+        let fieldCounter = remoteIMEStatus?.fieldCounter ?? 0
+        send(CommandNetwork.RemoteIMEBatchEditRequest(text: text, imeCounter: imeCounter, fieldCounter: fieldCounter))
     }
     
     public func send(_ data: Data, _ nextData: Data? = nil) {
@@ -235,7 +245,12 @@ public class RemoteManager {
             receive()
         default:
             logger?.debugLog(logPrefix + "unrecognized data")
-            if VolumeLevel(data) != nil {
+            if let imeStatus = CommandNetwork.RemoteIMEParser.extractStatus(from: data) {
+                logger?.debugLog(logPrefix + "remote IME status updated")
+                remoteIMEStatus = imeStatus
+                imeStatusChanged?(imeStatus)
+                data.removeAll()
+            } else if VolumeLevel(data) != nil {
                 data.removeAll()
             }
             receive()

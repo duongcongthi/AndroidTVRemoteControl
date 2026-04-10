@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControlPackageTests.build/master.swiftdeps"
+  },
+  "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControlPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControlPackageTests.build/runner.d",
+    "object": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControlPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControlPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControlPackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/thi/Desktop/APP_CHUT_V2/Package_Custom/AndroidTVRemoteControl/.build/arm64-apple-macosx/debug/AndroidTVRemoteControlPackageTests.build/runner.dia"
+  }
+}
